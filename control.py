@@ -10,14 +10,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.signal import lfilter
 
-# Daniel Mor 305468340
-# Yair Vaknin 308193754
-
-print("~~~~~~~~~~~ Submitted by: ~~~~~~~~~~~")
-print("Daniel Mor - danielmor1@mail.tau.ac.il")
-print("Yair Vaknin - yairvaknin@mail.tau.ac.il ")
-print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-
 """
 Parts of the code (cart and pole dynamics, and the state
 discretization) are inspired from code available at the RL repository
